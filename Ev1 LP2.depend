@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1711171383 source:c:\users\alexa\onedrive\documentos\uso\programacion 2\ev1 lp2\src\cliente.cpp
+	"cliente.h"
+
+1711171383 c:\users\alexa\onedrive\documentos\uso\programacion 2\ev1 lp2\include\cliente.h
+	<iostream>
+
+1711171383 source:c:\users\alexa\onedrive\documentos\uso\programacion 2\ev1 lp2\src\fecha.cpp
+	"fecha.h"
+
+1711171383 c:\users\alexa\onedrive\documentos\uso\programacion 2\ev1 lp2\include\fecha.h
+	<iostream>
+
+1711171383 source:c:\users\alexa\onedrive\documentos\uso\programacion 2\ev1 lp2\src\abono.cpp
+	"abono.h"
+
+1711171693 c:\users\alexa\onedrive\documentos\uso\programacion 2\ev1 lp2\include\abono.h
+	"fecha.h"
+	<iostream>
+
+1711171383 source:c:\users\alexa\onedrive\documentos\uso\programacion 2\ev1 lp2\src\cuenta.cpp
+	"cuenta.h"
+
+1711171383 c:\users\alexa\onedrive\documentos\uso\programacion 2\ev1 lp2\include\cuenta.h
+	"cliente.h"
+	"abono.h"
+	<string>
+	<iostream>
+
